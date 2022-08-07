@@ -1,0 +1,26 @@
+.sidebar_channels {
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .sidebar_channels__dropdown {
+    /* padding: 3px; */
+    margin: 10px;
+  }
+  
+  .sidebar_channels__addIcon {
+    /* padding: 3px; */
+    margin-right: 20px;
+  }
+  
+  .sidebar_channels__addIcon:hover,
+  .sidebar_channels__dropdown:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  .sidebar_channels__channel_text {
+    flex-grow: 1;
+  }
+  

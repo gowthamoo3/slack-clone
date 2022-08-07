@@ -1,0 +1,9 @@
+.message__content__container {
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  height: 88vh;
+}

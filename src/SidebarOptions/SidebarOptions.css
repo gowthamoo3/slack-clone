@@ -1,0 +1,16 @@
+.sidebar_option_list {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.sidebar_option_text {
+  font-size: 15px;
+}
+
+.sidebar_option_icon {
+  height: 18px !important;
+  width: 18px !important;
+  margin-right: 8px;
+}

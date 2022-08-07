@@ -1,0 +1,30 @@
+.channel__greeting {
+  height: 82vh;
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+.channel__greeting_content {
+  padding: 20px;
+}
+
+.channel__greeting_joinedMsg {
+  margin-top: 50px;
+}
+.channel__greeting_channelDescription {
+  display: block;
+}
+
+.channel__greeting_title {
+  display: flex;
+  align-items: center;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}

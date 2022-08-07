@@ -1,0 +1,54 @@
+.header {
+  height: 4.8vh;
+  width: 100%;
+  background-color: rgb(53, 13, 54);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__icon {
+  color: white;
+  width: 22px !important;
+  height: 22px !important;
+  opacity: 0.7;
+}
+
+.header__sidebar {
+  margin: auto 0;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  max-width: 432px;
+  padding-left: 16px;
+  padding-right: 20px;
+}
+
+.header__right {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  max-width: 432px;
+  padding-left: 32px;
+  padding-right: 16px;
+}
+
+.header__helpIcon {
+  color: white;
+  margin-right: 12px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.header__statusIcon {
+  color: #2bac76;
+  position: absolute;
+  height: 12px !important;
+  width: 12px !important;
+  top: 26px;
+  right: 12px;
+}
+
+.header__avatar {
+  height: 28px;
+}

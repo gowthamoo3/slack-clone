@@ -1,0 +1,7 @@
+.channel__wrapper {
+  color: white;
+}
+
+.active_channel {
+  background-color: rgb(17, 100, 163);
+}

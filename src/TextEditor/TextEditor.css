@@ -1,0 +1,9 @@
+.channel__send_button {
+  position: absolute !important;
+  right: 10px;
+  bottom: 22px;
+}
+
+.text_editor {
+  margin-bottom: 10px;
+}
